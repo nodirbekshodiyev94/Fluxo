@@ -18,8 +18,14 @@
 | BPMN As-Is / To-Be | [diagrams/BPMN.pdf](diagrams/BPMN.pdf) |
 
 ## Демо
+Для просмотра системы можно использовать тестовые учётные записи:
 
-https://nodirbekshodiyev94.github.io/Fluxo/
+| Роль | Логин | Пароль |
+|---|---|---|
+| Пользователь | `user` | `user123` |
+| Администратор | `admin` | `admin123` |
+
+Демо-версия: https://nodirbekshodiyev94.github.io/Fluxo/
 
 ## Ключевые проектные решения
 
